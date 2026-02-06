@@ -1,0 +1,13 @@
+THIS AGREEMENT is made on 1st January 2025 BETWEEN Party A and Party B.
+
+1. Term and Termination: This Agreement shall commence on the Effective Date and continue for a period of one year and shall automatically renew unless either party gives 60 days written notice prior to the expiry of the then-current term.
+
+2. Payment: Party B shall pay Party A INR 5,00,000 within 30 days of invoice. Late payments shall incur a penalty of 2% per month.
+
+3. Indemnity: Party B shall indemnify and hold harmless Party A from any claims arising out of the services.
+
+4. Confidentiality: Both parties agree to keep confidential all proprietary information disclosed.
+
+5. Intellectual Property: All IP developed under this Agreement shall be assigned to Party A.
+
+6. Governing Law: This Agreement shall be governed by the laws of India and disputes shall be referred to arbitration in Mumbai.

@@ -1,0 +1,59 @@
+{
+  "app_name": "Contract Analysis & Risk Assessment Bot",
+  "version": "1.0",
+  "description": "GenAI-powered legal assistant for Indian SMEs",
+  "author": "Hackathon Team",
+  "supported_file_types": ["pdf", "docx", "txt"],
+  "max_file_size_mb": 50,
+  "risk_levels": {
+    "high": {
+      "color": "#d62728",
+      "icon": "🔴",
+      "threshold": 0.7
+    },
+    "medium": {
+      "color": "#ff7f0e",
+      "icon": "🟠",
+      "threshold": 0.4
+    },
+    "low": {
+      "color": "#2ca02c",
+      "icon": "🟢",
+      "threshold": 0.0
+    }
+  },
+  "contract_types": {
+    "employment": "Employment Agreement",
+    "vendor": "Vendor/Supplier Agreement",
+    "lease": "Lease Agreement",
+    "partnership": "Partnership Deed",
+    "service": "Service Agreement",
+    "nda": "Non-Disclosure Agreement"
+  },
+  "features": {
+    "risk_assessment": true,
+    "compliance_checking": true,
+    "entity_extraction": true,
+    "template_generation": true,
+    "audit_logging": true,
+    "multi_language": true,
+    "export_formats": ["json", "markdown", "html"]
+  },
+  "compliance_rules": [
+    "Force Majeure Clause",
+    "Dispute Resolution Mechanism",
+    "Severability Clause",
+    "Amendment Procedure",
+    "Limitation of Liability"
+  ],
+  "indian_law_keywords": [
+    "Indian Contract Act",
+    "Real Estate Tenancy",
+    "Labor Law",
+    "Data Protection",
+    "GDPR"
+  ],
+  "audit_log_path": "audit_logs.json",
+  "templates_path": "templates/",
+  "data_path": "data/"
+}
